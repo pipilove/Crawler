@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.ucas.ac.cn	TRUE	/	FALSE	1449707809	sepuser	"bWlkPWQ5OTAzNGIzLWIzNDYtNDU4NS05ZThlLTFmMjYyYmRlOTQ0Mw==  "
+sep.ucas.ac.cn	FALSE	/	FALSE		JSESSIONID	dN7Joxh1GToZYxlkYjwPcrsf.undefined
